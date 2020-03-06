@@ -6,4 +6,4 @@ sum = 5
 
 difference = 1
 
-multiplying = 6
+product = 6
