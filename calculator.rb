@@ -1,9 +1,9 @@
-first_number = 2
+first_number = 3
 
-second_number = 1
+second_number = 2
 
-sum = 3
+sum = 5
 
 difference = 1
 
-multiplying = 2
+multiplying = 6
