@@ -8,4 +8,4 @@ difference = 1
 
 product = 6
 
-quotient = 1.5
+quotient = 1
