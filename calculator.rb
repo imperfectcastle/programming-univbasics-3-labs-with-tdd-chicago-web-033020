@@ -7,4 +7,3 @@ sum = 3
 difference = 1
 
 multiplying = 2
-
